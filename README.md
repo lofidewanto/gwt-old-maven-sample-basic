@@ -10,6 +10,8 @@ GWT Example with Old Maven GWT plugin: https://gwt-maven-plugin.github.io/gwt-ma
 
 More information for the structure: https://gwt-maven-plugin.github.io/gwt-maven-plugin/user-guide/project.html
 
+To build this structure you can use the [Maven archetype](ttps://gwt-maven-plugin.github.io/gwt-maven-plugin/user-guide/archetype.html) from this plugin.
+
 ## Step 1 - Run GWT DevMode to automatically compile the code
 
 First package the war file so you get the index.html file:
