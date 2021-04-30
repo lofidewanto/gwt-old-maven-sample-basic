@@ -18,6 +18,12 @@ First package the war file so you get the index.html file:
 mvn package gwt:run
 ```
 
+Later you just need: 
+
+```java
+mvn gwt:run
+```
+
 ![GWT Development Mode](gwt-boot-sample-development-mode.png?raw=true "GWT Development Mode")
 
 ## Step 2 - Run the App in your Browser
