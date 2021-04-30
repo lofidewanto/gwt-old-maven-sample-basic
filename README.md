@@ -14,7 +14,7 @@ To build this structure you can use the [Maven archetype](https://gwt-maven-plug
 
 ## Step 1 - Run GWT DevMode to automatically compile the code
 
-First package the war file so you get the index.html file:
+First package the war file so you get the index.html file copied to the target directory:
 
 ```java
 mvn package gwt:run
